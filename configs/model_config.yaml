@@ -1,0 +1,4 @@
+vocab_size: 10000
+d_model: 512
+nhead: 8
+epochs: 10
